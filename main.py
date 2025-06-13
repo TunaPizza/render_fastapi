@@ -27,7 +27,7 @@ def omikuji():
         "末小吉",
         "凶",
         "小凶",
-        
+        "大凶"
     ]
 
     return omikuji_list[random.randrange(10)]
