@@ -44,6 +44,9 @@ def index():
         <body>
             <h1>Look me! HTML!</h1>
             <h2>こんにちは<h2>
+            <p>
+            <a href="https://render-fastapi-v1h1.onrender.com/omikuji">おみくじを引きましょう！</a>
+            </p>
         </body>
     </html>
     """
