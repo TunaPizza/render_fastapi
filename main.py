@@ -39,10 +39,11 @@ def index():
     html_content = """
     <html>
         <head>
-            <title>Some HTML in here</title>
+            <title>My HTML!</title>
         </head>
         <body>
-            <h1>Look ma! HTML!</h1>
+            <h1>Look me! HTML!</h1>
+            <h2>こんにちは<h2>
         </body>
     </html>
     """
